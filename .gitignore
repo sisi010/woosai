@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.bin
+*.safetensors
+models/
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp

@@ -1,0 +1,33 @@
+# Core ML frameworks
+torch>=2.0.0
+transformers>=4.35.0
+accelerate>=0.24.0
+peft>=0.6.0
+bitsandbytes>=0.41.0
+
+# Serving and API
+vllm>=0.2.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.0.0
+
+# RAG and embeddings
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+chromadb>=0.4.0
+
+# Data processing
+datasets>=2.14.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Evaluation
+rouge-score>=0.1.2
+bert-score>=0.3.13
+
+# OpenAI Integration - 추가됨
+openai>=1.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+loguru>=0.7.0

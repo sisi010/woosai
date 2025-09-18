@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Python Basics",
+    "content": "Python is a simple and readable programming language. It provides concepts like variables, functions, and classes.",
+    "category": "programming"
+  },
+  {
+    "id": 2,
+    "title": "Machine Learning Introduction",
+    "content": "Machine learning is a technology that learns patterns from data. It is divided into supervised learning, unsupervised learning, and reinforcement learning.",
+    "category": "ai"
+  },
+  {
+    "id": 3,
+    "title": "FastAPI Development",
+    "content": "FastAPI is a Python web framework. It supports asynchronous processing and automatic documentation.",
+    "category": "web"
+  }
+]
